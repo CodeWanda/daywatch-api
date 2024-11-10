@@ -1,4 +1,4 @@
 module.exports = {
-    SONARR_API_URL: 'http://107.20.80.82:8989/api/v3',  // URL de ton instance Sonarr
-    SONARR_API_KEY: 'fdf8989024194721bae611ba0de5c718'            // Clé API Sonarr
+    SONARR_API_URL: 'http://18.214.235.9:8989/api/v3',  // URL de ton instance Sonarr
+    SONARR_API_KEY: '87e0a189547d4b3090ca5322640c8de1'            // Clé API Sonarr
 };  
